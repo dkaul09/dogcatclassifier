@@ -16,7 +16,7 @@ This is one of my first Machine Learning projects I have built. Having watched m
 Overall, while I had some initial challenges and some improvements to make, I enjoyed building this project as it was nice to see all the concepts that I have learned come to play, allowing me to understand their significance in machine learning projects. This was a great self-learning experience and I am looking forward to taking the lessons I have learnt to make my next machine-learning project bigger and better - a dog breed classifier.
 
 
-<ins>**How I overcame some challenges I faced and what I would like to improve on **</ins>
+<ins>**How I overcame some challenges I faced and what I would like to improve on**</ins>
 
 The biggest thing I want to improve is my understanding of models and I believe that will come with experience of building machine - learning projects. I have tried studying what the individual functions in the model, but I do not fully understand everything, hence I took the model in my project from the video referenced in the steps. Nonetheless, this is something I will continue working on as I continue building more machine-learning projects. 
 
