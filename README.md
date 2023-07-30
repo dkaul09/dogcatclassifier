@@ -22,7 +22,7 @@ This is one of my first Machine Learning projects I have built. Having watched m
 Overall, I enjoyed building this project as it was nice to see all the concepts that I have learned come to play, allowing me to understand their significance in machine learning projects. This was a great self-learning experience and has prompted me to work on a more sopshicated machine-learning project , a dog breed classifier.
 
 
-<ins>** How does the project work?**</ins>
+<ins>**How does the project work?**</ins>
 
 
 
